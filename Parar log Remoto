@@ -1,0 +1,9 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Parar log Remoto
+Name=Parar Parar log Remoto
+Comment=Parar Parar log Remoto
+Exec=sh -c 'sudo killall java'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/stop.png

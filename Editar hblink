@@ -1,0 +1,10 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Editar hblink
+Name=Editar hblink
+Comment=Editar hblink
+Exec=sh -c 'cd /home/pi/NewHBLINK/HBlink; sudo nano hblink.cfg'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/dmr.png
+Name[es_ES]=Editar hblink.cfg

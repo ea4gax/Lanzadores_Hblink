@@ -1,0 +1,10 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Ejecutar LORO
+Name=Ejecutar Log remoto
+Comment=Ejecutar Log remoto
+Exec=sh -c 'cd /home/pi/NewHBLINK/HBlink; sudo python hb_parrot.py -c loro.cfg'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/dmr.png
+Name[es_ES]=Ejecutar LORO

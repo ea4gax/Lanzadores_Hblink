@@ -1,0 +1,9 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Parar HBLINK
+Name=Parar HBLINK
+Comment=Parar HBLINK
+Exec=sh -c 'sudo killall python'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/stop.png

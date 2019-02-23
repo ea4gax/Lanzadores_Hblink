@@ -1,0 +1,10 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Editar ini HBLINK
+Name=Editar ini HBLINK
+Comment=Editar ini HBLINK
+Exec=sh -c 'cd /home/pi/MMDVMHost; sudo nano hblink.ini'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/dmr.png
+Name[es_ES]=Editar ini HBLINK

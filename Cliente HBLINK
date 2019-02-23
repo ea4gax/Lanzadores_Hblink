@@ -1,0 +1,9 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Cliente HBLINK
+Name=Cliente HBLINK
+Comment=Cliente HBLINK
+Exec=sh -c 'cd /home/pi/MMDVMHost; sudo ./MMDVMHost hblink.ini'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/dmr.png

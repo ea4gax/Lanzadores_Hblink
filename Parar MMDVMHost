@@ -1,0 +1,9 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Parar MMDVMHost
+Name=Parar MMDVMhost
+Comment=Parar MMDVMHost
+Exec=sh -c 'sudo killall MMDVMHost'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/stop.png

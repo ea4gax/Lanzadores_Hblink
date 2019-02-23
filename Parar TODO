@@ -1,0 +1,9 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Parar TODO
+Name=Parar TODO
+Comment=Parar TODO
+Exec=sh -c 'sudo killall python && sudo killall MMDVMHost && sudo killall java'
+Terminal=true
+Type=Application
+Icon=/home/pi/Lanzadores_Hblink/botones/stop.png
