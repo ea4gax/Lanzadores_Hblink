@@ -1,0 +1,10 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Editar hb_confbridge_rules
+Name=Editar hb_confbridge_rules
+Comment=Editar hb_confbridge_rules
+Exec=sh -c 'cd /home/pi/HBlink/; sudo nano hb_confbridge_rules.py'
+Terminal=true
+Type=Application
+Icon=/home/pi/botones/dmr.png
+Name[es_ES]=Editar hb_confbridge_rules
