@@ -1,0 +1,10 @@
+[Desktop Entry]
+TryExec=lxterminal
+GenericName=Editar config HBMONITOR
+Name=Editar config HBMONITOR
+Comment=Editar config HBMONITOR
+Exec=sh -c 'cd /home/pi/HBmonitor; sudo nano config.py'
+Terminal=true
+Type=Application
+Icon=/home/pi/botones/dmr.png
+Name[es_ES]=Editar config HBMONITOR
